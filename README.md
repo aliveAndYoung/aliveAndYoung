@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I'm Youssef, a passionate React web developer and Computer and Automatic Control Engineering student with a love for building large-scale projects.
+👋 Hi there! I'm Youssef, a passionate React web developer and Computer Engineering student with a love for building large-scale projects.
 
 🎓 Currently pursuing my degree in Computer and Automatic Control Engineering, which gives me a unique perspective on software development, control systems, and automation.
 
