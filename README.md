@@ -1,20 +1,12 @@
 # 💫 About Me:
 
-👋 Hi there! I'm Youssef, a passionate React web developer and Computer Engineering student with a love for building large-scale projects.
+👋 Hi there! I'm Youssef, software and Computer Engineering student .
 
-🎓 Currently pursuing my degree in Computer and Automatic Control Engineering, which gives me a unique perspective on software development, control systems, and automation.
+🎓 Currently pursuing my degree in Computer and Automatic Control Engineering .
 
-🚀 I'm constantly pushing my boundaries and improving my skills through ambitious projects. These challenges not only enhance my abilities but are also incredibly fun and rewarding.
+🚀 I'm constantly pushing my boundaries and improving my skills through ambitious projects .
 
-💼 Seeking exciting opportunities as a React web developer. I'm eager to bring my creativity, technical skills, and engineering background in computer systems and automation to a dynamic team.
 
-🤖 Deeply interested in Data Engineering and Machine Learning. I'm fascinated by the potential of these fields to transform industries and solve complex problems.
-
-🤝 Always open to collaboration! Whether you're a fellow front-end developer or part of a back-end team, I'd love to join forces on larger, more realistic projects.
-
-🔮 Next.js has been my recent focus, and I'm looking forward to incorporating it into upcoming projects. Excited about the possibilities it opens up for building performant and scalable web applications.
-
-💡 Interested in collaborating or discussing opportunities? Let's connect and build something great!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-mohamed-lifcouldbedream) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lifecouldBdrevm) 
