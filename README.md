@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Youssef, software and Computer Engineering student .
 
-🎓 Currently pursuing my degree in Computer and Automatic Control Engineering .
+🎓 Currently pursuing a degree in Computer and Automatic Control Engineering .
 
 🚀 I'm constantly pushing my boundaries and improving my skills through ambitious projects .
 
